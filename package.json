@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simarpreet7/chatapp.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simarpreet7/chatapp/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/simarpreet7/chatapp#readme",
+  "homepage": "",
   "dependencies": {
     "async": "^3.2.0",
     "body-parser": "^1.19.0",
