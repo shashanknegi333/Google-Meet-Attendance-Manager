@@ -8,8 +8,8 @@ npm install
 npm start
 
 ## contributors
- Simarpreet Singh |
  Shashank Negi |
+ Simarpreet Singh |
  Siddhartha 
  
 
@@ -29,7 +29,7 @@ https://www.figma.com/file/7sg68J7mXtWhFUDONiYNtW/MeetAttendance?node-id=0%3A1
 https://drive.google.com/file/d/1BXJv6EIwyRMel-mXdJ89Hm-W6I6V5iWB/view?usp=sharing
 
 ## Running
-https://dtu-attendance.herokuapp.com/
+https://meet-attendance-manager.herokuapp.com/
 
 
 ## Contributing
