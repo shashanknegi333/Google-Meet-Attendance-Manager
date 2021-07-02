@@ -1,4 +1,4 @@
-# attendance 
+# Google Meet Attendance Manager
 A web application that can take attendance data of a google meet virtual meeting or class easily. Also this app enables the user to securely manage his/her recorded attendance data, view and update it  without any hassle.
 
 
